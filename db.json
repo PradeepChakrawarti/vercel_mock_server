@@ -170,6 +170,409 @@
       "gen_drug_two": "Homeopathy",
       "final_price": 540,
       "price_two": 720
+    },
+
+    {
+      "Id": 20,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/805821/3m_micropore_tape_1530_s_1_5m_0_1.jpg",
+      "discount": "49% OFF",
+      "tittle": "3M Micropore Adhesive Surgical Tape - (2.5 cm x 5 m) (1530-S-1-5M)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 40.29,
+      "price": "Rs.79.00"
+    },
+    {
+      "Id": 21,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/805231/combidress_combine_dressing_pad_10_cm_x_10_cm_0.jpg",
+      "discount": "10% OFF",
+      "tittle": "Combidress Combine Dressing Pad (10 cm x 10 cm)",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 81,
+      "price": "Rs.90.00"
+    },
+    {
+      "Id": 22,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/410324/surgicom_cotton_gauze_pad_10cmx10cm_0.jpg",
+      "discount": "33% OFF",
+      "tittle": "Surgicom Cotton Gauze Pad 10Cmx10Cm",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 29.48,
+      "price": "Rs.44.00"
+    },
+    {
+      "Id": 23,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804445/3m_tegaderm_hp_transparent_film_8526in_0.jpg",
+      "discount": "45% OFF",
+      "tittle": "3M Tegaderm HP Transparent Film (8526IN)",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 124.3,
+      "price": "Rs.226.00"
+    },
+    {
+      "Id": 24,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/409793/ramaraju_cotton_wool_50_gm_0.jpg",
+      "discount": "20% OFF",
+      "tittle": "Ramaraju Cotton Wool 50 gm",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 44,
+      "price": "Rs.55.00"
+    },
+    {
+      "Id": 25,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/409525/ramaraju_cotton_wool_100_gm_0.jpg",
+      "discount": "22% OFF",
+      "tittle": "Ramaraju Cotton Wool 100 gm",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 81.9,
+      "price": "Rs.105.00"
+    },
+    {
+      "Id": 26,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/315816/3m_micropore_tape_1_2_inch_0.jpg",
+      "discount": "40% OFF",
+      "tittle": "3M Micropore Surgical Tape - (1.25 cm x 9.1 m) (1530-0)",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 26.4,
+      "price": "Rs.44.00"
+    },
+    {
+      "Id": 27,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/409522/ramaraju_cotton_wool_500_gm_0.jpg",
+      "discount": "20% OFF",
+      "tittle": "Ramaraju Cotton Wool 500 gm",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 359.2,
+      "price": "Rs.449.00"
+    },
+    {
+      "Id": 28,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/368258/bd_alcohol_swab_100s_0_1.jpg",
+      "discount": "11% OFF",
+      "tittle": "BD Alcohol Swab 100's",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 267,
+      "price": "Rs.300.00"
+    },
+    {
+      "Id": 29,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/337470/ramaraju_cotton_wool_400_gm_41141_0_1.jpg",
+      "discount": "20% OFF",
+      "tittle": "Ramaraju Cotton Wool 400 gm",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 277.6,
+      "price": "Rs.347.00"
+    },
+    {
+      "Id": 30,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/409524/ramaraju_cotton_wool_200_gm_51417_0_1.jpg",
+      "discount": "20% OFF",
+      "tittle": "Ramaraju Cotton Wool 200 gm",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 149.6,
+      "price": "Rs.187.00"
+    },
+    {
+      "Id": 31,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/405603/ramaraju_cotton_wool_25_gm_0.jpg",
+      "discount": "20% OFF",
+      "tittle": "Ramaraju Cotton Wool 25 gm",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 23.2,
+      "price": "Rs.29.00"
+    },
+    {
+      "Id": 32,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804496/3m_tegaderm_hppad_film_dressing_8582in_0_1.jpg",
+      "discount": "20% OFF",
+      "tittle": "3M Tegaderm HP+Pad Film Dressing (8582IN)",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 116,
+      "price": "Rs.145.00"
+    },
+    {
+      "Id": 33,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804450/3m_tegaderm_iv_transparent_film_1635in_0_1.jpg",
+      "discount": "28% OFF",
+      "tittle": "3M Tegaderm IV Transparent Film (1635IN)",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 256.32,
+      "price": "Rs.356.00"
+    },
+    {
+      "Id": 34,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804474/3m_opticlude_orthoptic_eye_patches_1539_20s_0_1.jpg",
+      "discount": "29% OFF",
+      "tittle": "3M Opticlude Orthoptic Eye Patches (1539) 20's",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 426,
+      "price": "Rs.600.00"
+    },
+    {
+      "Id": 35,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804473/3m_opticlude_orthoptic_eye_patches_1537_20s_0_1.jpg",
+      "discount": "29% OFF",
+      "tittle": "3M Opticlude Orthoptic Eye Patches (1537) 20's",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 426,
+      "price": "Rs.600.00"
+    },
+    {
+      "Id": 36,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804447/3m_tegaderm_iv_transparent_film_1633in_0.jpg",
+      "discount": "45% OFF",
+      "tittle": "3M Tegaderm IV Transparent Film (1633)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 97.9,
+      "price": "Rs.178.00"
+    },
+    {
+      "Id": 37,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/315446/jelonet_gauze_10_cm_x_10_cm_10s_38901_0_1.jpg",
+      "discount": "15% OFF",
+      "tittle": "Jelonet Gauze (10 cm x 10 cm) 10's",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 771.38,
+      "price": "Rs.907.50"
+    },
+    {
+      "Id": 38,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804479/3m_elastic_adhesive_bandage_10_cm_x_4_6_m_0.jpg",
+      "discount": "70% OFF",
+      "tittle": "3M Elastic Adhesive Bandage (10 cm x 4/6 m)",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 402.3,
+      "price": "Rs.1341.00"
+    },
+    {
+      "": "",
+      "__1": 1,
+      "Id": 39,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/412152/3m_cavilon_no_sting_barrier_film_spray_28_ml_0_1.jpg",
+      "discount": "13% OFF",
+      "tittle": "3M Cavilon No Sting Barrier Film Spray 28 ml",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 1039.65,
+      "price": "Rs.1195.00"
+    },
+    {
+      "Id": 40,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/803000/3m_micropore_tape_3_inch_4_s_0.jpg",
+      "discount": "50% OFF",
+      "tittle": "3M Micropore Tape - 3 Inch 4's",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 612,
+      "price": "Rs.1224.00"
+    },
+    {
+      "Id": 41,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804491/3m_tegaderm_hp_pad_film_dressing_8590in_0.jpg",
+      "discount": "30% OFF",
+      "tittle": "3M Tegaderm HP+Pad Film Dressing (8590IN)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 402.5,
+      "price": "Rs.575.00"
+    },
+    {
+      "Id": 42,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/105089/3m_micropore_tape_1_inch_12s_0_1.jpg",
+      "discount": "50% OFF",
+      "tittle": "3M Micropore Adhesive Surgical Tape - (2.5 cm x 9.14 m) (1530-1) 12's",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 612,
+      "price": "Rs.1224.00"
+    },
+    {
+      "Id": 43,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804498/3m_tegaderm_film_iv_1623win_0.jpg",
+      "discount": "49% OFF",
+      "tittle": "3M Tegaderm Film IV (1623WIN)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 52.53,
+      "price": "Rs.103.00"
+    },
+    {
+      "Id": 44,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804489/3m_tegaderm_hp_pad_film_dressing_8586in_0.jpg",
+      "discount": "19% OFF",
+      "tittle": "3M Tegaderm HP+Pad Film Dressing (8586IN)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 251.1,
+      "price": "Rs.310.00"
+    },
+    {
+      "Id": 45,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/802999/3m_micropore_tape_2_inch_6_s_0.jpg",
+      "discount": "50% OFF",
+      "tittle": "3M Micropore Adhesive Surgical Tape - (5 cm x 9.14 m) (1530-2) 6's",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 612,
+      "price": "Rs.1224.00"
+    },
+    {
+      "Id": 46,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/408153/dynamic_tubifix_elasticated_tubular_bandage_b_p_1m_7_50_cm_4030_004_0.jpg",
+      "discount": "10% OFF",
+      "tittle": "Dynamic Tubifix Elasticated Tubular Bandage B.P 1M 7.50 cm (4030-004)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 265.5,
+      "price": "Rs.295.00"
+    },
+    {
+      "Id": 47,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/408152/dynamic_tubifix_elasticated_tubular_bandage_b_p_1m_6_75_cm_4030_003_0.jpg",
+      "discount": "10% OFF",
+      "tittle": "Dynamic Tubifix Elasticated Tubular Bandage B.P 1M 6.75 cm (4030-003)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 220.5,
+      "price": "Rs.245.00"
+    },
+    {
+      "Id": 48,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/408150/dynamic_tubifix_elasticated_tubular_bandage_b_p_1m_6_25_cm_4030_002_0.jpg",
+      "discount": "10% OFF",
+      "tittle": "Dynamic Tubifix Elasticated Tubular Bandage B.P 1M 6.25 cm (4030-002)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 193.5,
+      "price": "Rs.215.00"
+    },
+    {
+      "Id": 49,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804494/3m_tegaderm_hp_pad_film_dressing_8591in_0.jpg",
+      "discount": "30% OFF",
+      "tittle": "3M Tegaderm HP+Pad Film Dressing (8591IN)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 465.5,
+      "price": "Rs.665.00"
+    },
+    {
+      "Id": 50,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/15694/unisoft_tourniquet_velcro_18_inches_0.jpg",
+      "discount": "10% OFF",
+      "tittle": "Unisoft Tourniquet Velcro 18 inches",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 32.4,
+      "price": "Rs.36.00"
+    },
+    {
+      "Id": 51,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804485/3m_steri_strips_reinforced_skin_closures_r1547_0_1.jpg",
+      "discount": "12% OFF",
+      "tittle": "3M Steri-Strips Reinforced Skin Closures (R1547)",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 171.6,
+      "price": "Rs.195.00"
+    },
+    {
+      "Id": 52,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/408138/dynamic_top_crepe_cotton_crepe_bandage_b_p_4m_15_cm_4001_0.jpg",
+      "discount": "30% OFF",
+      "tittle": "Dynamic Top Crepe Cotton Crepe Bandage B.P 4M 15 cm (4001)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 310.1,
+      "price": "Rs.443.00"
+    },
+    {
+      "Id": 53,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804490/3m_tegaderm_hppad_film_dressing_8589in_0_1.jpg",
+      "discount": "20% OFF",
+      "tittle": "3M Tegaderm HP+Pad Film Dressing (8589IN)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 396,
+      "price": "Rs.495.00"
+    },
+    {
+      "Id": 54,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804480/3m_steri_strips_reinforced_skin_closures_r1541_0_1.jpg",
+      "discount": "20% OFF",
+      "tittle": "3M Steri-Strips Reinforced Skin Closures (R1541)",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 97.6,
+      "price": "Rs.122.00"
+    },
+    {
+      "Id": 55,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/408154/dynamic_tubifix_elasticated_tubular_bandage_b_p_1m_8_75_cm_4030_005_0.jpg",
+      "discount": "10% OFF",
+      "tittle": "Dynamic Tubifix Elasticated Tubular Bandage B.P 1M 8.75 cm (4030-005)",
+      "gen_drug": "Surgical",
+      "category": "Dressing",
+      "price_box 2": 279,
+      "price": "Rs.310.00"
+    },
+    {
+      "Id": 56,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/15693/unisoft_tourniquet_velcro_14_inches_0.jpg",
+      "discount": "15% OFF",
+      "tittle": "Unisoft Tourniquet Velcro 14 inches",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 30.6,
+      "price": "Rs.36.00"
+    },
+    {
+      "Id": 57,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804483/3m_steri_strips_reinforced_skin_closures_r1546_0.jpg",
+      "discount": "18% OFF",
+      "tittle": "3M Steri-Strips Reinforced Skin Closures (R1546)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 155.8,
+      "price": "Rs.190.00"
+    },
+    {
+      "Id": 58,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/408155/dynamic_tubifix_elasticated_tubular_bandage_b_p_1m_10_0_cm_4030_006_0.jpg",
+      "discount": "12% OFF",
+      "tittle": "Dynamic Tubifix Elasticated Tubular Bandage B.P 1M 10.0 cm (4030-006)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 281.6,
+      "price": "Rs.320.00"
+    },
+    {
+      "Id": 59,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/804482/3m_steri_strips_reinforced_skin_closures_r1542_0.jpg",
+      "discount": "15% OFF",
+      "tittle": "3M Steri-Strips Reinforced Skin Closures (R1542)",
+      "gen_drug": "Devices",
+      "category": "Surgical Accessories",
+      "price_box 2": 136,
+      "price": "Rs.160.00"
     }
   ]
 }
