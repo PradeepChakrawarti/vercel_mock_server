@@ -1,9 +1,175 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "netmends": [
+    {
+      "Id": 1,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850491/sbl_bio_combination_28_tablet_450_gm_422152_0_0.jpg",
+      "tittle": "SBL Bio-Combination 28 Tablet 450 gm",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 540,
+      "price_two": 720
+    },
+    {
+      "Id": 2,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/821953/sbl_damiagra_forte_drops_30_ml_0.jpg",
+      "tittle": "SBL Damiagra Forte Drops 30 ml",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 320,
+      "price_two": 400
+    },
+    {
+      "Id": 3,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850348/sbl_bio_combination_6_tablet_450_gm_422124_0_0.jpg",
+      "tittle": "SBL Bio-Combination 6 Tablet 450 gm",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 540,
+      "price_two": 720
+    },
+    {
+      "Id": 4,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/821937/sbl_dibonil_tablets_25_gm_0.jpg",
+      "tittle": "SBL Dibonil Tablets 25 gm",
+      "gen_drug": "Health Conditions",
+      "gen_drug_two": "Diabetic Care",
+      "final_price": 131.75,
+      "price_two": 155
+    },
+    {
+      "Id": 5,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850346/sbl_bio_combination_4_tablet_450_gm_0_0.jpg",
+      "tittle": "SBL Bio-Combination 4 Tablet 450 gm",
+      "gen_drug": "Health Conditions",
+      "gen_drug_two": "Stomach Care",
+      "final_price": 540,
+      "price_two": 720
+    },
+    {
+      "Id": 6,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850350/sbl_bio_combination_7_tablet_450_gm_530348_0_0.jpg",
+      "tittle": "SBL Bio-Combination 7 Tablet 450 gm",
+      "gen_drug": "Health Conditions",
+      "gen_drug_two": "Diabetic Care",
+      "final_price": 540,
+      "price_two": 720
+    },
+    {
+      "Id": 7,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/849591/sbl_caladium_seguinum_200_liquid_30_ml_0.jpg",
+      "tittle": "SBL Caladium Seguinum 200 Liquid 30 ml",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 89.25,
+      "price_two": 105
+    },
+    {
+      "Id": 8,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850358/sbl_bio_combination_15_tablet_450_gm_422134_0_0.jpg",
+      "tittle": "SBL Bio-Combination 15 Tablet 450 gm",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 540,
+      "price_two": 720
+    },
+    {
+      "Id": 9,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850586/sbl_arsenicum_sulph_falvum_6x_tablet_25_gm_422190_0_0.jpg",
+      "tittle": "SBL Arsenicum Sulph.Falvum 6X Tablet 25 gm",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 140.25,
+      "price_two": 165
+    },
+    {
+      "Id": 10,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/849188/sbl_drops_no_5_cervical_pain_30_ml_0_0.jpg",
+      "tittle": "SBL Drops No. 5 (Cervical Pain) 30 ml",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 148.75,
+      "price_two": 175
+    },
+    {
+      "Id": 11,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/821955/sbl_phytolacca_berry_tablets_25_gm_0.jpg",
+      "tittle": "SBL Phytolacca Berry Tablets 25 gm",
+      "gen_drug": "Health Conditions",
+      "gen_drug_two": "Weight Care",
+      "final_price": 123.25,
+      "price_two": 145
+    },
+    {
+      "Id": 12,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/849191/sbl_drops_no_9_cough_30_ml_0.jpg",
+      "tittle": "SBL Drops No. 9 (Cough) 30 ml",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 148.75,
+      "price_two": 175
+    },
+    {
+      "Id": 13,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850352/sbl_bio_combination_9_tablet_450_gm_415724_0_0.jpg",
+      "tittle": "SBL Bio-Combination 9 Tablet 450 gm",
+      "gen_drug": "Health Conditions",
+      "gen_drug_two": "Stomach Care",
+      "final_price": 540,
+      "price_two": 720
+    },
+    {
+      "Id": 14,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850300/sbl_fe_min_tablet_25_gm_0.jpg",
+      "tittle": "SBL Fe-Min Tablet 25 gm",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 131.75,
+      "price_two": 155
+    },
+    {
+      "Id": 15,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850490/sbl_bio_combination_27_tablet_450_gm_0_0.jpg",
+      "tittle": "SBL Bio-Combination 27 Tablet 450 gm",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 540,
+      "price_two": 720
+    },
+    {
+      "Id": 16,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/849367/sbl_carbo_vegetabilis_30_liquid_30_ml_0.jpg",
+      "tittle": "SBL Carbo Vegetabilis 30 Liquid 30 ml",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 80.75,
+      "price_two": 95
+    },
+    {
+      "Id": 17,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/849960/sbl_pothos_foetidus_200_liquid_30_ml_0.jpg",
+      "tittle": "SBL Pothos Foetidus 200 Liquid 30 ml",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 89.25,
+      "price_two": 105
+    },
+    {
+      "Id": 18,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850575/sbl_natrum_muriaticum_6x_tablet_450_gm_530353_0_0.jpg",
+      "tittle": "SBL Natrum Muriaticum 6X Tablet 450 gm",
+      "gen_drug": "Health Conditions",
+      "gen_drug_two": "Mental Care",
+      "final_price": 540,
+      "price_two": 720
+    },
+    {
+      "Id": 19,
+      "image": "https://www.netmeds.com/images/product-v1/150x150/850347/sbl_bio_combination_5_tablet_450_gm_0_0.jpg",
+      "tittle": "SBL Bio-Combination 5 Tablet 450 gm",
+      "gen_drug": "Ayush",
+      "gen_drug_two": "Homeopathy",
+      "final_price": 540,
+      "price_two": 720
+    }
+  ]
 }
